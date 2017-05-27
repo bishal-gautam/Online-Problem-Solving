@@ -3,9 +3,6 @@
 ///                            IT'S ME                                         ///
 ///                         BISHAL GAUTAM                                      ///
 ///                  CSE,JAHANGIRNAGAR UNIVERSITY,DHAKA                        ///
-///               "Pursue Excellence..Success will chase U"                    ///
-///                   ID: TC/CF => (BG_PeaceMind.)                             ///
-///                                                                            ///
 ///============================================================================///
 #include<bits/stdc++.h>
 #define PI acos(-1.0)
